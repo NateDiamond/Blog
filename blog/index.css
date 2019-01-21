@@ -1,0 +1,16 @@
+.mdl-layout__header {
+  height: 20vh;
+}
+.blog-card {
+  margin: auto;
+  width: 50% !important;
+}
+.ribbon {
+  height: 20vh;
+  background-color: #03a9f4;
+}
+.post {
+  margin-top: -10vh !important; 
+  width: 70%;
+  background-color: white;
+}
