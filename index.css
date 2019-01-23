@@ -7,15 +7,23 @@
   min-height: 150px !important;
   margin-bottom: 3vh;
 }
-.first-half {
+/* .first-half {
   max-width: 40% !important;
   display: inline-block;
-}
+}*/
 .second-half {
-  max-width: 30% !important;
-  margin-top: -20%;
+  max-width: 15vw !important;
+  max-height: 15vw !important;
+  /*margin-top: -20%;
   position: relative;
-  left: 70%;
+  left: 70%;*/
+}
+.float-right-cell {
+  float: right;
+}
+.grid-override {
+  margin: 0px !important;
+  padding: 0px !important;
 }
 .ribbon {
   height: 20vh;
