@@ -7,6 +7,16 @@
   min-height: 150px !important;
   margin-bottom: 3vh;
 }
+.first-half {
+  max-width: 40% !important;
+  display: inline-block;
+}
+.second-half {
+  max-width: 30% !important;
+  margin-top: -20%;
+  position: relative;
+  left: 70%;
+}
 .ribbon {
   height: 20vh;
   background-color: #03a9f4;
