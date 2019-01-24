@@ -1,11 +1,25 @@
 .mdl-layout__header {
   height: 20vh;
 }
+.background {
+  height: 170% !important;
+  /* background-image: url("flag1.jpg");
+  background-size: cover;
+  background-repeat: repeat-y !important;  */
+}
+#b1{
+  height: 250% !important;
+}
 .blog-card {
   margin: auto;
   width: 50% !important;
   min-height: 150px !important;
   margin-bottom: 3vh;
+}
+.centered-image {
+  width: 20vw;
+  margin: auto;
+  display: block;
 }
 /* .first-half {
   max-width: 40% !important;
